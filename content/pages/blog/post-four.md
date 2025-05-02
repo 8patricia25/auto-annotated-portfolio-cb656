@@ -1,8 +1,6 @@
 ---
 type: PostLayout
-title: >-
-  Pessoas
-  https://br.freepik.com/icone/pessoas_17387300#fromView=keyword&page=3&position=69&uuid=9d7c5da5-7924-4597-b092-ceb9458af18b 
+title: 'Pessoas '
 colors: colors-b
 date: '2024-02-01'
 author: content/data/team/doris-soto.json
