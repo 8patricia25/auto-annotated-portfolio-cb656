@@ -82,7 +82,7 @@ sections:
         url: 'https://candidatura2527.netlify.app/blog/post-three/'
       - type: Label
         label: Pessoas
-        url: ''
+        url: 'https://candidatura2527.netlify.app/blog/post-four/'
       - type: Label
         label: Netlify
         url: ''
