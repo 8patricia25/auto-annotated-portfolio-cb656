@@ -87,7 +87,7 @@ sections:
         label: Emprego científico
         url: 'https://candidatura2527.netlify.app/blog/post-five/'
       - type: Label
-        label: Pancakes
+        label: Governança
         url: ''
       - type: Label
         label: C++
