@@ -2,7 +2,7 @@
 type: PostLayout
 title: Emprego científico
 colors: colors-b
-date: '2025-05-02'
+date: '2025-04-02'
 author: content/data/team/doris-soto.json
 excerpt: o que está previsto no novo plano estratégico quanto a contratações
 bottomSections:
