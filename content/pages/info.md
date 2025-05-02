@@ -1,23 +1,14 @@
 ---
 type: PageLayout
-title: About
-colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg4.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 75
+title: Quem somos
+colors: colors-b
 sections:
   - elementId: ''
-    colors: colors-f
+    colors: colors-b
     backgroundSize: full
     text: >+
-      # Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+      # CANDIDATURA DE TERESA MENDES FLORES E CARLA FERNANDES À COORDENAÇÃO
+      EXECUTIVA DO ICNOVA
 
     media:
       type: ImageBlock
@@ -39,232 +30,49 @@ sections:
           - pr-4
         textAlign: left
     type: HeroSection
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        borderWidth: 1
-        borderStyle: solid
-  - type: MediaGallerySection
-    colors: colors-f
-    subtitle: 'I worked with these folks:'
-    images:
-      - type: ImageBlock
-        url: /images/logo1.svg
-        altText: Logo one
-        caption: Logo one
-      - type: ImageBlock
-        url: /images/logo2.svg
-        altText: Logo two
-        caption: Logo two
-      - type: ImageBlock
-        url: /images/logo3.svg
-        altText: Logo three
-        caption: Logo three
-      - type: ImageBlock
-        url: /images/logo4.svg
-        altText: Logo four
-        caption: Logo four
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
-    spacing: 3
-    columns: 5
-    aspectRatio: auto
-    showCaption: false
-    enableHover: false
-    styles:
-      self:
-        width: wide
-        height: auto
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        textAlign: left
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        borderWidth: 1
-        borderStyle: solid
-  - type: FeaturedItemsSection
-    subtitle: 'You can find me here:'
-    colors: colors-f
-    items:
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: GitHub
-            url: 'https://github.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: LinkedIn
-            url: 'https://www.linkedin.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: 'https://discord.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Instagram
-            url: 'https://www.instagram.com/'
-        styles:
-          self:
-            textAlign: left
-    columns: 3
-    spacingX: 120
-    spacingY: 16
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        borderWidth: 1
-        borderStyle: solid
-  - type: LabelsSection
-    colors: colors-f
-    subtitle: 'Skills:'
-    items:
-      - type: Label
-        label: 'WEB 1, 2, 3'
-      - type: Label
-        label: React
-      - type: Label
-        label: Microsoft Office
-      - type: Label
-        label: Next.js
-      - type: Label
-        label: Netlify
-      - type: Label
-        label: Pancakes
-      - type: Label
-        label: C++
-      - type: Label
-        label: Swift
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        borderWidth: 1
-        borderStyle: solid
-  - type: TextSection
-    variant: variant-a
-    subtitle: 'Contact:'
-    colors: colors-f
-    text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        borderWidth: 1
-        borderStyle: solid
   - type: FeaturedItemsSection
     colors: colors-f
     items:
       - type: FeaturedItem
-        subtitle: 'Experience:'
-        text: |-
-          **Current**
-
-          * freelance @freelance.me
-
-          **2018-2021**
-
-          * fullstack at this startup
-
-          **2015**
-
-          * senior front-end at this place
-
-          **2013**
-
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
+        subtitle: TERESA MENDES FLORES
+        text: "Doutorada em ciências da comunicação, na área de Comunicação e Cultura, pela Universidade Nova de Lisboa, desde 2010, licenciada e mestre em ciências da comunicação pela mesma universidade. Investiga na área da cultura visual, teoria da imagem, histórias e teorias da fotografia e do filme,\_ arqueologias dos media e semiótica. Nos últimos anos, tem-se debruçado sobre a cultura visual colonial e os legados do colonialismo, a partir de abordagens pós-coloniais, decoloniais e de género. Foi investigadora principal do projeto FCT “O impulso fotográfico”.\_\n\nAo longo da sua carreira, exerceu diversos cargos de gestão. Destaque para a coordenação do grupo de Cultura, Mediação& Artes, durante dois mandatos (2019-2023), e a vice-coordenação atual. Já tinha sido Vice-presidente do CIMJ (na presidência de Estrela Serrano) e membro da direção do CECL (na qualidade de tesoureira), centros fundadores do atual\_ ICNOVA, de que é membro fundador. Estes cargos consolidaram a sua\_ experiência na execução de projetos no contexto da NOVA-FCSH. Foi membro da comissão redatorial do atual projeto estratégico.\n\nNos últimos 6 anos, foi investigadora no ICNOVA através do programa CEEC-Norma Transitória e é, atualmente, professora auxiliar no Departamento de Ciências da Comunicação da NOVA-FCSH. Foi docente da ECATI-Universidade Lusófona, desde 1997, tendo iniciado a sua carreira como docente no ensino superior, na UBI, em 1992. Colaborou com diversas outras instituições de ensino, na área da comunicação, como a ESCS-IPL e o IADE, conhecendo profundamente a realidade do ensino superior em Portugal.\n\n\n\n*   Orcid:\_ 0000-0002-8866-3129\n\n    Ciência Vitae: 631F-C550-8E29\n\n"
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
-        subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        subtitle: CARLA FERNANDES
+        text: >
+          Doutorada em Linguística, na área da Comunicação Multimodal, pela
+          Universidade Nova de Lisboa e a Vrije Universiteit de Amsterdão.
+          Investigadora Principal na NOVA-FCSH desde 2008. Diretora do
+          Laboratório “BlackBox
 
-          * ba computer sciense at a semi fancy school
+          Artes & Cognição” na FCSH desde 2014, actualmente com um contrato CEEC
+          Institucional. Ao longo da sua carreira, exerceu diversos cargos de
+          gestão em projectos europeus.
 
-          **2014**
+          Está presentemente a terminar o segundo mandato enquanto Coordenadora
+          do Grupo de investigação em Performance e Cognição (2021-2025) junto
+          do ICNOVA.
 
-          * react certificate somewhere
 
-          **2011**
+          Foi a primeira bolseira ERC na FCSH (2014-2019), tendo posteriormente
+          coordenado projectos de  financiamento internacional competitivo como
+          Europeana-Spaces e T-Factor (Horizon2020). Atualmente, o foco da sua
+          investigação está na intersecção entre as Artes performativas e as
+          Ciências Cognitivas, a Comunicação Multimodal e o Património Cultural
+          Imaterial, orientando diversas teses de doutoramento nessas mesmas
+          áreas, tanto em Portugal como no estrangeiro.
 
-          * my highschool
+
+          É revisora e co-editora em várias revistas internacionais indexadas,
+          fazendo parte de redes internacionais de investigação e engajando-se
+          na defesa das carreiras de investigação a nível europeu.
+
+
+
+
+          *   Orcid: 0000-0002-4434-3828
         styles:
           self:
             textAlign: left
@@ -281,76 +89,24 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        borderWidth: 1
-        borderStyle: solid
-  - type: ContactSection
-    backgroundSize: full
-    title: "Let’s talk... \U0001F4AC"
+  - type: LabelsSection
     colors: colors-f
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      fields:
-        - name: firstName
-          label: First Name
-          hideLabel: true
-          placeholder: First Name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
-          hideLabel: true
-          placeholder: Last Name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Tell me about your project
-          isRequired: true
-          width: full
-          type: TextareaFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve my words
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
-      styles:
-        self:
-          textAlign: center
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-4
-          - mr-4
-        padding:
-          - pt-12
-          - pb-12
-          - pr-4
-          - pl-4
-        flexDirection: row
-        textAlign: left
+    subtitle: Menu
+    items:
+      - type: Label
+        label: 'WEB 1, 2, 3'
+      - type: Label
+        label: Microsoft Office
+      - type: Label
+        label: Next.js
+      - type: Label
+        label: React
+      - type: Label
+        label: Netlify
+      - type: Label
+        label: Pancakes
+      - type: Label
+        label: C++
+      - type: Label
+        label: Swift
 ---
