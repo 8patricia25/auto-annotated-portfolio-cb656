@@ -4,7 +4,7 @@ title: Apresentação
 colors: colors-a
 date: '2025-03-20'
 author: content/data/team/doris-soto.json
-excerpt: a nossa missão
+excerpt: o nosso compromisso
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
