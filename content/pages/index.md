@@ -91,7 +91,7 @@ sections:
         url: 'https://candidatura2527.netlify.app/blog/post-six/'
       - type: Label
         label: Atmosfera
-        url: ''
+        url: 'https://candidatura2527.netlify.app/blog/post-seven/'
       - type: Label
         label: Swift
         url: ''
