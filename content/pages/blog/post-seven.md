@@ -5,28 +5,7 @@ colors: colors-b
 date: '2024-06-10'
 author: content/data/team/doris-soto.json
 excerpt: investir e modernizar os espaços do ICNOVA
-bottomSections:
-  - elementId: ''
-    type: RecentPostsSection
-    colors: colors-f
-    variant: variant-d
-    subtitle: Recent posts
-    showDate: true
-    showAuthor: false
-    showExcerpt: true
-    recentCount: 2
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-12
-          - pb-56
-          - pr-4
-          - pl-4
-        textAlign: left
-    showFeaturedImage: true
-    showReadMoreLink: true
+bottomSections: []
 ---
 Queremos ouvir as ideias de todos os membros do ICNOVA: investigadores.as, gestores.as de ciência e estudantes e fortalecer processos de comunicação, interna e externa, ancorados nos recursos que definem o nosso trabalho:
 
