@@ -1,15 +1,10 @@
 ---
 type: PostLayout
-title: AI are so hot right now
-colors: colors-a
+title: Emprego científico
+colors: colors-b
 date: '2024-05-02'
 author: content/data/team/doris-soto.json
-excerpt: >-
-  More context that may or may not be helpful
-featuredImage:
-  type: ImageBlock
-  url: /images/featured-Image5.jpg
-  altText: Post thumbnail image
+excerpt: o que está previsto no novo plano estratégico quanto a contratações
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
@@ -32,65 +27,73 @@ bottomSections:
         textAlign: left
     showFeaturedImage: true
     showReadMoreLink: true
-  - type: ContactSection
-    backgroundSize: full
-    title: 'Stay up-to-date with my words ✍️'
-    colors: colors-f
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      fields:
-        - name: firstName
-          label: First Name
-          hideLabel: true
-          placeholder: First Name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
-          hideLabel: true
-          placeholder: Last Name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve my words
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
-      styles:
-        self:
-          textAlign: center
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-24
-          - pb-24
-          - pr-4
-          - pl-4
-        flexDirection: row
-        textAlign: left
 ---
+## **PROPOSTAS**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+O perfil atual dos 75 investigadores.as integrados.as contempla 84% (63) de docentes, e 16% (12) membros na carreira de investigação no período que agora termina. Para a avaliação da FCT, destes 75 membros integrados apenas 56,7 contaram para o orçamento base, número muito abaixo dos 70,1 da última avaliação. Estes dados mostram que os maiores constrangimentos que enfrentamos coletivamente são a precariedade e o tempo de dedicação das carreiras.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+Esta questão depende de vários fatores que não controlamos. **O que podemos prometer é:**
 
-> “Everybody should learn to program a computer, because it teaches you how to think.”
+*   Sobre matéria de RH e políticas científicas, representar junto da direção da FCSH e da FCT, a posição que resulte dos órgãos do ICNOVA (Coordenação e Conselho Científico), como previsto nos Estatutos. Incluímos aqui a negociação para novas contratações do programa FCT-Tenure, cujo número gostaríamos de ver decidido pelo Científico para levarmos à negociação com a Faculdade.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+*   Face ao orçamento programático atribuído pela FCT, de cerca de metade do que solicitámos, promover o debate e a decisão em CC, para reajustamento do plano previsto de contratações de investigadores (ver plano submetido à FCT, mais em baixo).
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+*   Apoiar e acolher candidatos.as que queiram investigar no ICNOVA, nas nossas áreas,  financiados por programas europeus, como o Marie Curie, ERC, HorizonEurope, Eutopia, etc.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+*   Continuar a acolher investigadores.as estrangeiros.as de pós-doutoramento, nomeadamente oriundos do Sul Global e fortalecer redes com os seus centros e universidades de origem.
+
+*   Abrir uma chamada anual para convidar investigadores estrangeiros de pós-doc interessados.as em vir para o ICNOVA (já com os seus financiamentos dos países de origem) e fomentar «outputs» conjuntos.
+
+*   Conquistar programas de bolsas internacionais para atrair doutorandos estrangeiros, explorando programas como os doutoramentos Marie Curie e Eutopia.
+
+*   Apoiar as candidaturas a CEEC na medida em que os.as candidatos.as integrem no seu plano de trabalhos tempo dedicado à captação ativa de financiamento. 
+
+*   Fomentar projetos financiados que integrem contratações e bolsas e permitam consolidar áreas de pesquisa e equipas, missão permanente de qualquer centro.
+
+*   Tentar atrair novos membros investigadores.as a tempo inteiro, já com os seus próprios financiamentos, ou com um excelente currículo de financiamentos anteriores, que pretendam mudar de centro de acolhimento.
+
+## **O QUE ESTÁ PREVISTO NO NOVO ESTRATÉGICO QUANTO A CONTRATAÇÕES?**
+
+#### **ORÇAMENTO PROGRAMÁTICO**
+
+**Carreira de investigação** (o que foi submetido à avaliação da FCT)
+
+*   3 lugares na carreira de investigação científica, no quadro permanente, através do programa FCT Tenure
+
+*   5 posições para contratos de trabalho na posição de investigadores auxiliares (3 posições durante 3 anos; + 2 posições durante 2 anos)
+
+*   6 posições de investigadores júniores durante 2 anos
+
+*   3 bolsas de pós-doutoramento de 3 anos
+
+*   10 bolsas de iniciação à investigação
+
+*   12 bolsas de PhD
+
+#### **ORÇAMENTO BASE**
+
+**Gestores de Ciência e Tecnologia do ICNOVA**
+
+O projeto estratégico mantém a atual estrutura do Staff. 
+
+*   Um Gestor.a de Ciência administrativo e financeiro
+
+*   Um Gestor.a de Ciência para apoio a projetos
+
+*   Um Gestor.a de Comunicação
+
+*   Um Produtor.a Audiovisual
+
+*   Um Gestor.a de Tecnologia e Webdesign
+
+*   Um Gestor.a Editorial
+
+## **POSIÇÃO PÚBLICA SOBRE A PRECARIEDADE NA CIÊNCIA**
+
+Fomos sempre investigadoras contratadas e, como tal, conhecemos bem os constrangimentos e dificuldades da precariedade. A nossa posição pública será sempre a defesa de que um centro de investigação com avaliação de Excelente deve ter no mínimo um ratio equivalente entre investigadores a 100% e docentes. Defendemos que deve existir flexibilidade entre investigação e docência, para ambas as carreiras, em dados momentos de cada percurso. **A carreira pública de investigação científica não pode é continuar a existir apenas no papel!**
+
+A precaridade dos investigadores.as resolve-se com a abertura de concursos públicos para essa carreira, com suficiente financiamento do orçamento do Estado, como deve acontecer para a carreira docente. Acreditamos que a procura de financiamentos para projetos não fica prejudicada com a estabilidade dos docentes, investigadores e equipas. Pelo contrário!
+
+Defendemos também a existência efetiva da carreira de Gestão de Ciência e Tecnologia e recusamos a ideia de que as pessoas a exercerem estas funções têm que ser, também elas, precárias.
+
+Estas são questões que nos transcendem, mas a que pretendemos dar voz constante nos fóruns apropriados.
