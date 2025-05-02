@@ -50,12 +50,6 @@
                 "label": "Contacto",
                 "url": "mailto:teresaflores@fcsh.unl.pt ",
                 "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "altText": "Netlify templates"
             }
         ],
         "contacts": {
