@@ -5,28 +5,49 @@ date: '2025-03-10'
 author: content/data/team/doris-soto.json
 excerpt: aumentar financiamentos internacionais e fora da FCT
 bottomSections:
-  - type: RecentPostsSection
-    subtitle: Recent posts
-    actions: []
+  - type: LabelsSection
+    title: MENU
+    subtitle: ''
+    items:
+      - type: Label
+        label: Apresentação
+        url: 'https://candidatura2527.netlify.app/'
+      - type: Label
+        label: Internacionalização
+        url: 'https://candidatura2527.netlify.app/blog/post-two/'
+      - type: Label
+        label: Linhas de ação
+        url: 'https://candidatura2527.netlify.app/blog/post-three/'
+      - type: Label
+        label: Pessoas
+        url: 'https://candidatura2527.netlify.app/blog/post-four/'
+      - type: Label
+        label: Emprego científico
+        url: 'https://candidatura2527.netlify.app/blog/post-five/'
+      - type: Label
+        label: Governança
+        url: 'https://candidatura2527.netlify.app/blog/post-six/'
+      - type: Label
+        label: Atmosfera
+        url: 'https://candidatura2527.netlify.app/blog/post-seven/'
+      - type: Label
+        label: Financiamentos
+        url: 'https://candidatura2527.netlify.app/blog/post-eight/'
+      - type: Label
+        label: Um sentido ético
+        url: 'https://candidatura2527.netlify.app/blog/post-nine/'
     colors: colors-f
-    variant: variant-d
     elementId: ''
-    recentCount: 2
-    showDate: true
-    showAuthor: false
-    showExcerpt: true
-    showFeaturedImage: true
-    showReadMoreLink: true
     styles:
       self:
         height: auto
         width: wide
         padding:
-          - pt-12
-          - pb-56
-          - pr-4
+          - pt-14
+          - pb-9
           - pl-4
-        textAlign: left
+          - pr-4
+        textAlign: center
 metaTags: []
 colors: colors-b
 ---
