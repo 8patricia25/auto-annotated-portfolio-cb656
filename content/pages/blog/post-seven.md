@@ -5,13 +5,6 @@ colors: colors-b
 date: '2024-06-10'
 author: content/data/team/doris-soto.json
 excerpt: investir e modernizar os espaços do ICNOVA
-backgroundImage:
-  type: BackgroundImage
-  url: /images/gallery-3.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 20
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
