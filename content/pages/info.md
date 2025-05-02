@@ -34,7 +34,7 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
-        subtitle: Teresa Mendes Flores
+        subtitle: TERESA MENDES FLORES
         text: |-
           **Current**
 
