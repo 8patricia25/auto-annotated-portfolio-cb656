@@ -20,7 +20,7 @@ sections:
       desafios à nossa frente?
 
 
-      # COLOCANDO A COMUNICAÇÃO NO CENTRO. 
+      # COLOCANDO A COMUNICAÇÃO NO CENTRO.
 
 
       # Somos  uma comunidade interdisciplinar com a visão de que a comunicação
