@@ -5,10 +5,6 @@ colors: colors-a
 date: '2024-02-01'
 author: content/data/team/doris-soto.json
 excerpt: + motivação e confiança
-featuredImage:
-  type: ImageBlock
-  url: /images/featured-Image4.jpg
-  altText: Post thumbnail image
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
