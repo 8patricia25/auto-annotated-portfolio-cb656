@@ -34,7 +34,7 @@ sections:
       <div style="text-align: right">Candidatura de Teresa Mendes Flores e Carla
       Fernandes à coordenação executiva do ICNOVA 2025-2027.</div>
 
-    colors: colors-f
+    colors: colors-b
     variant: variant-a
     elementId: ''
     styles:
