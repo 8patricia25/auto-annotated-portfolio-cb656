@@ -9,7 +9,7 @@ sections:
       # ICNOVA: A COMUNICAÇÃO NO CENTRO
 
 
-      # COMO ATIVAS AS nossas forças multifacetadas para ir ao encontro dos
+      # COMO ATIVAR AS nossas forças multifacetadas para ir ao encontro dos
       desafios à nossa frente?
 
 
