@@ -6,28 +6,49 @@ date: '2025-03-20'
 author: content/data/team/doris-soto.json
 excerpt: o nosso compromisso
 bottomSections:
-  - type: FeaturedPostsSection
-    actions: []
-    posts:
-      - content/pages/blog/post-two.md
+  - type: LabelsSection
+    title: MENU
+    subtitle: ''
+    items:
+      - type: Label
+        label: Apresentação
+        url: 'https://candidatura2527.netlify.app/'
+      - type: Label
+        label: Internacionalização
+        url: 'https://candidatura2527.netlify.app/blog/post-two/'
+      - type: Label
+        label: Linhas de ação
+        url: 'https://candidatura2527.netlify.app/blog/post-three/'
+      - type: Label
+        label: Pessoas
+        url: 'https://candidatura2527.netlify.app/blog/post-four/'
+      - type: Label
+        label: Emprego científico
+        url: 'https://candidatura2527.netlify.app/blog/post-five/'
+      - type: Label
+        label: Governança
+        url: 'https://candidatura2527.netlify.app/blog/post-six/'
+      - type: Label
+        label: Atmosfera
+        url: 'https://candidatura2527.netlify.app/blog/post-seven/'
+      - type: Label
+        label: Financiamentos
+        url: 'https://candidatura2527.netlify.app/blog/post-eight/'
+      - type: Label
+        label: Um sentido ético
+        url: 'https://candidatura2527.netlify.app/blog/post-nine/'
     colors: colors-f
-    variant: variant-c
     elementId: ''
-    showDate: true
-    showAuthor: false
-    showExcerpt: true
-    showFeaturedImage: false
-    showReadMoreLink: true
     styles:
       self:
         height: auto
         width: wide
         padding:
-          - pt-24
-          - pb-24
+          - pt-14
+          - pb-9
           - pl-4
           - pr-4
-        textAlign: left
+        textAlign: center
 ---
 Apresentamo-nos como candidatas à Coordenação Executiva do ICNOVA para o mandato de 2025-2027 com a enorme vontade de continuar a fomentar a participação coletiva na vida do ICNOVA e de fortalecer as práticas democráticas na tomada de decisão e na partilha da informação. 
 
