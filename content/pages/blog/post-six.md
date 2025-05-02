@@ -28,13 +28,68 @@ bottomSections:
     showFeaturedImage: true
     showReadMoreLink: true
 ---
+Consolidar as práticas democráticas e a prestação de contas.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+Incentivar cada vez mais a participação de todos e de todas na vida do ICNOVA. Como?
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+**Situação atual** O ICNOVA tem um modelo colegial de tomada de decisão, compreendendo dois organismos: a Coordenação Executiva e o Conselho Científico.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+A coordenação executiva é composta por um.a Coordenador.a e um.a vice-coordenador.a, únicos cargos que exigem um contrato de trabalho em vigor com a FCSH e que são diretamente eleitos.as pelo Conselho Científico. É ainda composto por coordenadores de grupo de investigação e respetivos vice-coordenadores, eleitos pelos membros integrados de cada grupo, que não necessitam de ter contratos com a FCSH, devendo ser membros integrados (o que exige um contrato de trabalho em vigor, em Portugal, mas não com a FCSH). 
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+As decisões da coordenação executiva têm vindo a ser tomadas por maioria dos votos dos coordenadores, com voto de desempate do.a Coordenador.a principal. No entanto, esta prática não está definida nos Estatutos, que deverão ser alterados em Conselho Científico.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+## **O CONSELHO CIENTÍFICO NO CENTRO**
+
+Propomos continuar a reunir o Conselho Científico duas vezes por ano, em reuniões ordinárias. No entanto, **consideramos importante que o CC possa reunir mais regularmente, em reuniões extraordinárias, para deliberar sobre temas específicos com mais profundidade. Estas reuniões extraordinárias poderão até ser realizadas online.**
+
+São exemplos, três casos para breve: a revisão dos Estatutos, do Regulamento de Apoios e da Comissão de Ética.
+
+### OUTRAS PROPOSTAS
+
+*   Os Estatutos do ICNOVA aprovados pelo Conselho Científico de 21 de Novembro de 2021, prevêem uma revisão após 4 anos de funcionamento, devendo, por isso, ser agora revistos em 2025, uma vez que já perfizeram os 4 anos de existência.
+
+*   Os Estatutos devem ser revistos porque são muito omissos e vagos relativamente a várias matérias. Assim, o Conselho Científico deverá deliberar, nomeadamente sobre:
+
+| **Os processos eleitorais, tornando mais claros os procedimentos**                                                                                                                      |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **As funções dos órgãos tornando-as mais precisas e menos genéricas**                                                                                                                   |
+| **Os métodos de decisão da coordenação estão omissos e deverão ser oficializados, com decisões por maioria**                                                                            |
+| **Revisão da proposta sobre a Comissão de Ética**                                                                                                                                       |
+| **A inclusão nos Estatutos de normativos relativos à gestão e coordenação científica das várias publicações do ICNOVA com remissão para os respectivos regulamentos próprios**          |
+| **A Comissão de Ética já formalizada mas omissa nos Estatutos**                                                                                                                         |
+| **Discutir o número de membros do Conselho Científico que podem exigir marcação de reunião extraordinária para debater algum tema que considerem urgente (atualmente é ⅓ dos membros)** |
+| **Na última revisão foi introduzida a limitação de mandatos, de dois mandatos consecutivos, tanto para os coordenadores principais quanto de grupo, com que concordamos**               |
+| **A composição dos órgãos, nomeadamente sobre os membros com direito a voto**                                                                                                           |
+
+### PERGUNTAS & RESPOSTAS
+
+*   **Dar direito de voto aos membros doutorandos para eleger o.a coordenador.a de grupo?**
+
+*Na nossa opinião, isso seria desejável, pois contribui para promover maior responsabilização e participação no grupo desde a fase em que se é estudante de doutoramento.*
+
+*   **Um representante dos doutorandos.as deveria integrar a coordenação com direto a voto (já o têm no CC)?**
+
+*Na nossa opinião, o.a representante dos doutorandos não deve integrar a coordenação executiva, podendo ser chamado em casos específicos, quando é necessário ouvi-lo.a ou a seu pedido. A coordenação deve reunir membros que sejam pares entre si, evitando situações de coação (exemplo pode ser o caso de estar em situação de não votar de modo contrário ao seu ou sua orientador.a de tese). A maioria dos assuntos estão também fora da sua esfera de ação.*
+
+*   **Instituir Assembleias Gerais, ou seja, reuniões plenárias com todos os tipos de membros?**
+
+*Podem ocorrer no mesmo dia das reuniões ordinárias do CC, retirando-se de seguida os membros que não sejam do CC*. 
+
+*   **Tornar regra a participação dos doutorandos e dos colaboradores nas reuniões dos GIs (existem grupos que o fazem e outros não)?**
+
+*Deve ser apenas uma recomendação.*
+
+**
+
+## **PRESTAÇÃO DE CONTAS**
+
+*   Para além da produção quadrimestral de um documento detalhado (não nominal) da execução financeira a apresentar a todos os elementos da coordenação, prevemos partilhar a monitorização regular dessa mesma execução com os membros integrados,através da intranet para consulta permanente.
+
+*   Partilha dos Memorandos de cada reunião da coordenação, com os membros integrados através da intranet, para consulta permanente. 
+
+*   Continuaremos, obviamente, a partilhar as atas do CC.
+
+*   No âmbito da revisão dos Estatutos do ICNOVA, propor ao CC a criação de um Conselho Fiscal, para elaboração de um relatório anual através da consulta de PAs e demais documentação contabilística.
+
+*   Integrar a gestão das prestações de serviço do ICNOVA no seu processo administrativo.
+
