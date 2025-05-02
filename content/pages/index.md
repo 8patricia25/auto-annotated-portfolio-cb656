@@ -81,7 +81,7 @@ sections:
         label: Linhas de ação
         url: 'https://candidatura2527.netlify.app/blog/post-three/'
       - type: Label
-        label: Next.js
+        label: Pessoas
         url: ''
       - type: Label
         label: Netlify
