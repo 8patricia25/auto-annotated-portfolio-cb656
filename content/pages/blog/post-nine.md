@@ -4,29 +4,7 @@ title: Um sentido ético
 date: '2025-03-10'
 author: content/data/team/doris-soto.json
 excerpt: acreditamos numa ética do cuidado
-bottomSections:
-  - type: RecentPostsSection
-    subtitle: Recent posts
-    actions: []
-    colors: colors-f
-    variant: variant-d
-    elementId: ''
-    recentCount: 2
-    showDate: true
-    showAuthor: false
-    showExcerpt: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-12
-          - pb-56
-          - pr-4
-          - pl-4
-        textAlign: left
+bottomSections: []
 metaTags: []
 colors: colors-b
 ---
