@@ -35,26 +35,7 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: TERESA MENDES FLORES
-        text: |-
-          **Current**
-
-          * freelance @freelance.me
-
-          **2018-2021**
-
-          * fullstack at this startup
-
-          **2015**
-
-          * senior front-end at this place
-
-          **2013**
-
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
+        text: "Doutorada em ciências da comunicação, na área de Comunicação e Cultura, pela Universidade Nova de Lisboa, desde 2010, licenciada e mestre em ciências da comunicação pela mesma universidade. Investiga na área da cultura visual, teoria da imagem, histórias e teorias da fotografia e do filme,\_ arqueologias dos media e semiótica. Nos últimos anos, tem-se debruçado sobre a cultura visual colonial e os legados do colonialismo, a partir de abordagens pós-coloniais, decoloniais e de género. Foi investigadora principal do projeto FCT “O impulso fotográfico”.\_\n\nAo longo da sua carreira, exerceu diversos cargos de gestão. Destaque para a coordenação do grupo de Cultura, Mediação& Artes, durante dois mandatos (2019-2023), e a vice-coordenação atual. Já tinha sido Vice-presidente do CIMJ (na presidência de Estrela Serrano) e membro da direção do CECL (na qualidade de tesoureira), centros fundadores do atual\_ ICNOVA, de que é membro fundador. Estes cargos consolidaram a sua\_ experiência na execução de projetos no contexto da NOVA-FCSH. Foi membro da comissão redatorial do atual projeto estratégico.\n\nNos últimos 6 anos, foi investigadora no ICNOVA através do programa CEEC-Norma Transitória e é, atualmente, professora auxiliar no Departamento de Ciências da Comunicação da NOVA-FCSH. Foi docente da ECATI-Universidade Lusófona, desde 1997, tendo iniciado a sua carreira como docente no ensino superior, na UBI, em 1992. Colaborou com diversas outras instituições de ensino, na área da comunicação, como a ESCS-IPL e o IADE, conhecendo profundamente a realidade do ensino superior em Portugal.\n\n\n\n*   Orcid:\_ 0000-0002-8866-3129\n\n    Ciência Vitae: 631F-C550-8E29\n\n"
         styles:
           self:
             textAlign: left
