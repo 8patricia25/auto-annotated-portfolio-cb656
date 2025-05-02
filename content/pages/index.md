@@ -54,6 +54,9 @@ sections:
       - content/pages/blog/post-four.md
       - content/pages/blog/post-five.md
       - content/pages/blog/post-six.md
+      - content/pages/blog/post-seven.md
+      - content/pages/blog/post-eight.md
+      - content/pages/blog/post-nine.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
