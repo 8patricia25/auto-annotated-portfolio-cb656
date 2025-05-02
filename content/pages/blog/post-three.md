@@ -28,39 +28,45 @@ bottomSections:
     showFeaturedImage: true
     showReadMoreLink: true
 ---
+As linhas científicas para 2025-2029 foram, no essencial, definidas no atual projeto estratégico. Devemos implementá-las.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+Debatidas em vários encontros em que se convocaram todos os membros integrados e após várias etapas de debate em plenário e de partilha dentro dos grupos, a comissão de redação, em que participámos, resumiu as propostas. Deste intenso processo, saíram os eixos temáticos estruturantes da nossa ação, apresentados na candidatura, agora avaliada e que nos cabe, a todos e a todas, executar e ir além.
 
-## What is Composable Web?
+Este foram os **temas agregadores** do projeto estratégico 2025-2029:
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+*   **Participar nas agendas ecológicas contemporâneas.**
 
-### Syntax highlighter in Next.js
+*   **Contribuir para a implementação de ambientes sócio-técnicos responsáveis nas diversas dimensões: Cognitiva, Sensível, Afetiva e Criativa.**
 
-```css
-.colors-a {
-  @apply bg-dark text-on-dark;
-  .sb-input,
-  .sb-select,
-  .sb-textarea {
-    @apply text-on-dark placeholder-on-dark placeholder-opacity-75;
-  }
-  .sb-header-links-primary .sb-component-link:before,
-  .sb-component-header .sb-component-social:before {
-    @apply bg-on-dark;
-  }
-  .sb-header-links-primary .sb-component-link:hover,
-  .sb-component-header .sb-component-social:hover {
-    @apply text-dark;
-  }
-  .sb-header-overlay {
-    @apply bg-dark;
-  }
-}
-```
+*   **Valorizar diferentes formas de comunicação nas relações comunitárias e interpessoais.**
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+Abordados em dois **eixos de trabalho**:
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+### EIXO 1: CONSIDERANDO AS RESPONSABILIDADES SOCIAIS E ECOLÓGICAS NO CONTEXTO MEDIÁTICO CONTEMPORÂNEO, TEMOS O COMPROMISSO DE ESTUDAR:
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+*   Passados: Conhecer como fomos envolve examinar relações de poder, práticas dominantes e minoritárias, práticas mediáticas, memórias pessoais e coletivas, materialidades e inscrições históricas e tecnológicas.
+
+*   Presentes: Conhecer onde estamos envolve examinar questões como polarização, populismos, ameaças ambientais, desigualdades profundas, consumo excessivo, sobrecarga e saturação informativa.
+
+*   Futuros: Antecipar como poderemos ser envolve práticas de preparação e especulação, bem como o estudo de futuras contra-narrativas
+
+### EIXO 2: CONSIDERANDO AS DIMENSÕES SOCIOCULTURAIS, ARTÍSTICAS E PERFORMATIVAS DAS NOVAS TECNOLOGIAS MEDIÁTICAS EM ECOSSISTEMAS DINÂMICOS DE CRIAÇÃO, TEMOS O COMPROMISSO DE ESTUDAR:
+
+*   Passados: A história, arqueologia e apropriação social dos meios digitais permitem contrariar a ideologia da "eterna novidade" da modernidade. Trabalhos artísticos e teóricos examinam tecnologias mediáticas do passado e do presente, promovendo o pensamento crítico.
+
+*   Presentes: O estudo das reinvenções culturais, artísticas e políticas acompanha a atenção às possibilidades das novas tecnologias na sua relação com a performance e a cognição. Também as intervenções artísticas se envolvem em recriar cultura e endereçar desequilíbrios sociais e ecológicos.
+
+*   Futuros: Imaginar e considerar mundos (im)possíveis no âmago de um olhar criativo à sociedade de dados. Sendo transversal a todas as atividades, a ênfase vai para a experimentação artística e tecnológica.
+
+> **O ICNOVA assenta a sua agenda em cinco grupos de investigação que atuam de modos complementares em temáticas transversais. Trabalhar com e para diferentes públicos continuará a ser a nossa orientação chave.**
+
+Candidatura ICNOVA 2025-29
+
+A pro-atividade na construção de trabalho transversal aos grupos deve prosseguir e mereceu o reconhecimento dos avaliadores.
+
+Cada grupo avançou com ações a desenvolver, algumas já apresentadas ou em vias de serem formalizadas em Conselho Científico, como são os casos do **Laboratório do Comum** e do **Observatório Social da Inteligência Artificial**.
+
+Registamos aqui o essencial do que foi proposto:
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcemJm1W6bO8uvXysS93iiRZxlP3oRp-rnJCcMwi9IwIZSyckL-AcMq7T7jew4SdUAOcxBBGcyhlITKWKUSZK0Rm015cPI712qecJDOSjdfqDuNx7pEv4018OgAfawB-cgI8fF_OZWMiirTET1Fi88?key=Xd9zGtb0yUqMxmIO2-GfhuIJ)
+
