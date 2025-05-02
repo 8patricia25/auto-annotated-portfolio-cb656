@@ -93,7 +93,7 @@ sections:
         label: Atmosfera
         url: 'https://candidatura2527.netlify.app/blog/post-seven/'
       - type: Label
-        label: Swift
+        label: Financiamentos
         url: ''
     colors: colors-f
     elementId: ''
