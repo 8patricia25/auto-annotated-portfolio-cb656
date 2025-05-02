@@ -106,7 +106,7 @@ sections:
         width: wide
         padding:
           - pt-14
-          - pb-14
+          - pb-9
           - pl-4
           - pr-4
         textAlign: center
