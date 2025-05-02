@@ -30,26 +30,6 @@ sections:
           - pr-4
         textAlign: left
     type: HeroSection
-  - type: LabelsSection
-    colors: colors-f
-    subtitle: Menu
-    items:
-      - type: Label
-        label: 'WEB 1, 2, 3'
-      - type: Label
-        label: Microsoft Office
-      - type: Label
-        label: Next.js
-      - type: Label
-        label: React
-      - type: Label
-        label: Netlify
-      - type: Label
-        label: Pancakes
-      - type: Label
-        label: C++
-      - type: Label
-        label: Swift
   - type: FeaturedItemsSection
     colors: colors-f
     items:
@@ -108,6 +88,26 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
+  - type: LabelsSection
+    colors: colors-f
+    subtitle: Menu
+    items:
+      - type: Label
+        label: 'WEB 1, 2, 3'
+      - type: Label
+        label: Microsoft Office
+      - type: Label
+        label: Next.js
+      - type: Label
+        label: React
+      - type: Label
+        label: Netlify
+      - type: Label
+        label: Pancakes
+      - type: Label
+        label: C++
+      - type: Label
+        label: Swift
   - type: DividerSection
     styles:
       self:
