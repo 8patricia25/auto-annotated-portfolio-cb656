@@ -76,7 +76,7 @@ sections:
         url: 'https://candidatura2527.netlify.app/'
       - type: Label
         label: Internacionalização
-        url: ''
+        url: 'https://candidatura2527.netlify.app/blog/post-two/'
       - type: Label
         label: Microsoft Office
         url: ''
