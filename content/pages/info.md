@@ -41,7 +41,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         subtitle: CARLA FERNANDES
-        text: >+
+        text: >
           Doutorada em Linguística, na área da Comunicação Multimodal, pela
           Universidade Nova de Lisboa e a Vrije Universiteit de Amsterdão.
           Investigadora Principal na NOVA-FCSH desde 2008. Diretora do
@@ -70,11 +70,9 @@ sections:
           na defesa das carreiras de investigação a nível europeu.
 
 
-          ****
 
 
           *   Orcid: 0000-0002-4434-3828
-
         styles:
           self:
             textAlign: left
