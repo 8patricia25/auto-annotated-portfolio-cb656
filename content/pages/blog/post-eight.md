@@ -30,21 +30,16 @@ bottomSections:
 metaTags: []
 colors: colors-b
 ---
-Queremos ouvir as ideias de todos os membros do ICNOVA: investigadores.as, gestores.as de ciência e estudantes e fortalecer processos de comunicação, interna e externa, ancorados nos recursos que definem o nosso trabalho:
+Cada investigador é um ponta de lança na angariação de financiamentos para a sua investigação e das suas equipas. O papel do ICNOVA é proporcionar boas condições técnicas e humanas para a fase de procura de financiamentos e para a fase de execução. Isso deve ser realizado pela equipa prevista e estar em melhor articulação com a DAI e os serviços da FCSH.
 
-*   cultivando o sentido de comunidade
+Temos coletivamente a ambição de modificar o perfil financeiro do ICNOVA, aumentando financiamentos internacionais e fora da FCT. Cada investigador, em particular os contratados, deve contribuir ativamente para este objetivo. Os novos.as investigadores.as a contratar devem incluir esta procura no seu PIT (Plano Individual de Trabalho): parte do seu tempo deve ser para assegurar financiamentos para o projeto com que se apresentaram a concurso.
 
-*   colaborando em todas as etapas
+Gostaríamos de implementar metodologias de contratação e de candidaturas a bolsas, que correspondam a projetos já elaborados pelos investigadores séniores das diferentes áreas de investigação do ICNOVA, aos quais os investigadores e investigadoras se candidatam, em especial nos níveis mais júniores, conforme boas práticas internacionais.
 
-*   amplificando múltiplas perspetivas
+Reforçar a captação de prestações de serviços pelo ICNOVA, através de procura ativa coadjuvada por um membro do staff. Garantir, junto da faculdade, que da percentagem de Gastos Gerais («overheads») retida, 5% são alocados ao ICNOVA. 
 
-*   criando espaço e tempo para processar as nossas experiências através da linguagem dos media, das artes, do corpo e da investigação em redes.
+Garantir que toda a cadeia de execução financeira e humana das prestações de serviços seja integrada no circuito de gestão do ICNOVA, como qualquer outro projeto.
 
-**Queremos melhorar as condições físicas dos espaços**
+Executar as verbas previstas para equipamentos e sua manutenção.
 
-Na altura em que a Faculdade decidiu avançar para a requalificação do CAN (a nível energético, sonoro e de iluminação), o ICNOVA não alocou verbas para melhoria das nossas infraestruturas. Como entretanto ficou claro que aquelas intervenções não irão contemplar a substituição do chão, pintura de paredes, nem a aquisição de novo mobiliário mais confortável, consideramos importante alocarmos nós alguma verba para modernizar os espaços do ICNOVA, de forma a que todos.as se sintam mais em “casa” e com mais conforto. Acreditamos que assim iremos motivar os membros a se juntarem mais regularmente de forma informal.
-
-Continuaremos a promover uma cultura mais colaborativa através da realização dos bem-sucedidos encontros imersivos, promovendo o conhecimento recíproco do trabalho de cada um.a.
-
-Cada GI deve promover o usufruto dos espaços laboratoriais e de experimentação, intra e extra grupo, incluindo os doutorandos.as.
-
+Alocar verba para algumas obras não contempladas nas atuais obras do CAN.
