@@ -5,7 +5,50 @@ colors: colors-b
 date: '2025-03-23'
 author: content/data/team/doris-soto.json
 excerpt: consolidar as práticas democráticas e a prestação de contas
-bottomSections: []
+bottomSections:
+  - type: LabelsSection
+    title: MENU
+    subtitle: ''
+    items:
+      - type: Label
+        label: Apresentação
+        url: 'https://candidatura2527.netlify.app/'
+      - type: Label
+        label: Internacionalização
+        url: 'https://candidatura2527.netlify.app/blog/post-two/'
+      - type: Label
+        label: Linhas de ação
+        url: 'https://candidatura2527.netlify.app/blog/post-three/'
+      - type: Label
+        label: Pessoas
+        url: 'https://candidatura2527.netlify.app/blog/post-four/'
+      - type: Label
+        label: Emprego científico
+        url: 'https://candidatura2527.netlify.app/blog/post-five/'
+      - type: Label
+        label: Governança
+        url: 'https://candidatura2527.netlify.app/blog/post-six/'
+      - type: Label
+        label: Atmosfera
+        url: 'https://candidatura2527.netlify.app/blog/post-seven/'
+      - type: Label
+        label: Financiamentos
+        url: 'https://candidatura2527.netlify.app/blog/post-eight/'
+      - type: Label
+        label: Um sentido ético
+        url: 'https://candidatura2527.netlify.app/blog/post-nine/'
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-14
+          - pb-9
+          - pl-4
+          - pr-4
+        textAlign: center
 ---
 Consolidar as práticas democráticas e a prestação de contas.
 
