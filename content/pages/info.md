@@ -32,7 +32,7 @@ sections:
     type: HeroSection
   - type: LabelsSection
     colors: colors-f
-    subtitle: 'Skills:'
+    subtitle: Menu
     items:
       - type: Label
         label: 'WEB 1, 2, 3'
