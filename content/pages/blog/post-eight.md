@@ -3,7 +3,7 @@ type: PostLayout
 title: Financiamentos
 date: '2025-03-10'
 author: content/data/team/doris-soto.json
-excerpt: investir e modernizar os espaços do ICNOVA
+excerpt: aumentar fora da FCT
 bottomSections:
   - type: RecentPostsSection
     subtitle: Recent posts
