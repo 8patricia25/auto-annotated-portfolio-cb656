@@ -3,7 +3,7 @@ type: PostLayout
 title: Financiamentos
 date: '2025-03-10'
 author: content/data/team/doris-soto.json
-excerpt: aumentar financiamentos internacionais fora da FCT
+excerpt: aumentar financiamentos internacionais e fora da FCT
 bottomSections:
   - type: RecentPostsSection
     subtitle: Recent posts
