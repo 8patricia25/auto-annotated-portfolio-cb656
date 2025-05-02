@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - type: TextSection
     title: ''
-    text: >+
+    text: >
       # ICNOVA: A COMUNICAÇÃO NO CENTRO
 
 
@@ -27,13 +27,10 @@ sections:
       e a cultura moldam muitos dos grandes desafios do nosso tempo.
 
 
-
-
-
+      <br>
 
       <div style="text-align: right">Candidatura de Teresa Mendes Flores e Carla
       Fernandes à coordenação executiva do ICNOVA 2025-2027.</div>
-
     colors: colors-b
     variant: variant-a
     elementId: ''
