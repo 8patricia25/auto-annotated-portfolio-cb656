@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Atmosfera ⌨️
+title: Financiamentos
 date: '2024-06-10'
 author: content/data/team/doris-soto.json
 excerpt: investir e modernizar os espaços do ICNOVA
