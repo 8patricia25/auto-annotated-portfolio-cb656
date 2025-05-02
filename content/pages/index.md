@@ -88,7 +88,7 @@ sections:
         url: 'https://candidatura2527.netlify.app/blog/post-five/'
       - type: Label
         label: Governança
-        url: ''
+        url: 'https://candidatura2527.netlify.app/blog/post-six/'
       - type: Label
         label: C++
         url: ''
