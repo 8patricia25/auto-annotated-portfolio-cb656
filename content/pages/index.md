@@ -79,7 +79,7 @@ sections:
         url: 'https://candidatura2527.netlify.app/blog/post-two/'
       - type: Label
         label: Linhas de ação
-        url: ''
+        url: 'https://candidatura2527.netlify.app/blog/post-three/'
       - type: Label
         label: Next.js
         url: ''
