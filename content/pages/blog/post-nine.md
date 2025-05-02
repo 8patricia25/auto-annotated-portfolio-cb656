@@ -3,7 +3,7 @@ type: PostLayout
 title: Um sentido ético
 date: '2025-03-10'
 author: content/data/team/doris-soto.json
-excerpt: aumentar financiamentos internacionais e fora da FCT
+excerpt: acreditamos numa ética do cuidado
 bottomSections:
   - type: RecentPostsSection
     subtitle: Recent posts
