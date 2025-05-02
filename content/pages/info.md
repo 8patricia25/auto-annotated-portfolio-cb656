@@ -60,18 +60,52 @@ sections:
             textAlign: left
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
+        text: >+
+          Doutorada em Linguística, na área da Comunicação Multimodal, pela
+          Universidade Nova de Lisboa e a Vrije Universiteit de Amsterdão.
+          Investigadora Principal na NOVA-FCSH desde 2008. Diretora do
+          Laboratório “BlackBox 
+
+          Artes & Cognição” na FCSH desde 2014, actualmente com um contrato CEEC
+          Institucional. Ao longo da sua carreira, exerceu diversos cargos de
+          gestão em projectos europeus. 
+
+          Está presentemente a terminar o segundo mandato enquanto Coordenadora
+          do Grupo de investigação em Performance e Cognição (2021-2025) junto
+          do ICNOVA. 
+
+          Foi a primeira bolseira ERC na FCSH (2014-2019), tendo posteriormente
+          coordenado projectos de  financiamento internacional competitivo como
+          Europeana-Spaces e T-Factor (Horizon2020). Atualmente, o foco da sua
+          investigação está na intersecção entre as Artes performativas e as
+          Ciências Cognitivas, a Comunicação Multimodal e o Património Cultural
+          Imaterial, orientando diversas teses de doutoramento nessas mesmas
+          áreas, tanto em Portugal como no estrangeiro. 
+
+          É revisora e co-editora em várias revistas internacionais indexadas,
+          fazendo parte de redes internacionais de 
+
+          investigação e engajando-se na defesa das carreiras de investigação a
+          nível europeu. 
+
+
           **2015-2018**
 
-          * ba computer sciense at a semi fancy school
+
+          *   Orcid: 0000-0002-4434-3828
+
 
           **2014**
 
-          * react certificate somewhere
+
+          *   react certificate somewhere
+
 
           **2011**
 
-          * my highschool
+
+          *   my highschool
+
         styles:
           self:
             textAlign: left
