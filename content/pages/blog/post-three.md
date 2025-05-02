@@ -6,27 +6,49 @@ date: '2024-01-01'
 author: content/data/team/doris-soto.json
 excerpt: executar o novo projeto estratégico
 bottomSections:
-  - elementId: ''
-    type: RecentPostsSection
+  - type: LabelsSection
+    title: MENU
+    subtitle: ''
+    items:
+      - type: Label
+        label: Apresentação
+        url: 'https://candidatura2527.netlify.app/'
+      - type: Label
+        label: Internacionalização
+        url: 'https://candidatura2527.netlify.app/blog/post-two/'
+      - type: Label
+        label: Linhas de ação
+        url: 'https://candidatura2527.netlify.app/blog/post-three/'
+      - type: Label
+        label: Pessoas
+        url: 'https://candidatura2527.netlify.app/blog/post-four/'
+      - type: Label
+        label: Emprego científico
+        url: 'https://candidatura2527.netlify.app/blog/post-five/'
+      - type: Label
+        label: Governança
+        url: 'https://candidatura2527.netlify.app/blog/post-six/'
+      - type: Label
+        label: Atmosfera
+        url: 'https://candidatura2527.netlify.app/blog/post-seven/'
+      - type: Label
+        label: Financiamentos
+        url: 'https://candidatura2527.netlify.app/blog/post-eight/'
+      - type: Label
+        label: Um sentido ético
+        url: 'https://candidatura2527.netlify.app/blog/post-nine/'
     colors: colors-f
-    variant: variant-d
-    subtitle: Recent posts
-    showDate: true
-    showAuthor: false
-    showExcerpt: true
-    recentCount: 2
+    elementId: ''
     styles:
       self:
         height: auto
         width: wide
         padding:
-          - pt-12
-          - pb-56
-          - pr-4
+          - pt-14
+          - pb-9
           - pl-4
-        textAlign: left
-    showFeaturedImage: true
-    showReadMoreLink: true
+          - pr-4
+        textAlign: center
 ---
 As linhas científicas para 2025-2029 foram, no essencial, definidas no atual projeto estratégico. Devemos implementá-las.
 
