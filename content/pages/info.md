@@ -34,7 +34,7 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
-        subtitle: 'Experience:'
+        subtitle: Teresa Mendes Flores
         text: |-
           **Current**
 
