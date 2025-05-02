@@ -73,7 +73,7 @@ sections:
     items:
       - type: Label
         label: Apresentação
-        url: ''
+        url: 'https://candidatura2527.netlify.app/'
       - type: Label
         label: React
         url: ''
