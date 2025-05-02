@@ -68,7 +68,7 @@ sections:
           - pr-4
         textAlign: left
   - type: LabelsSection
-    title: Skills
+    title: MENU
     subtitle: The section subtitle
     items:
       - type: Label
