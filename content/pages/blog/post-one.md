@@ -28,19 +28,43 @@ bottomSections:
     showFeaturedImage: true
     showReadMoreLink: true
 ---
+Apresentamo-nos como candidatas à Coordenação Executiva do ICNOVA para o mandato de 2025-2027 com a enorme vontade de continuar a fomentar a participação coletiva na vida do ICNOVA e de fortalecer as práticas democráticas na tomada de decisão e na partilha da informação. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+Temos pela frente um novo projeto estratégico que foi avaliado como Excelente. Conhecemo-lo bem, pois participámos ativamente na sua elaboração e acreditamos estar qualificadas para o executar. Queremos que a sua implementação prossiga a metodologia participativa que o gerou.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+Com a manutenção do nosso Excelente, continuamos a acreditar que podemos ir ainda mais além — reforçando o espírito de equipa interno e promovendo um conjunto de ações externas que tornem a nossa produção científica mais atualizada e com um alcance e impacto internacionais, na academia e na sociedade.
 
-## About Coding
+Por isso, delineamos aqui as traves mestras do programa de trabalho que nos convoca a todos e a todas.
 
-> “Coding is the language of the future, and every girl should learn it. As I've learned from watching girls grow and learn in our classrooms, coding is fun, collaborative and creative.”
+*   **A** **internacionalização como o motor das nossas ações**: devemos organizar-nos para alcançarmos, com sucesso, mais projetos financiados em programas europeus, estar em mais redes internacionais, com destaque para o Sul Global, e ter mais publicações nas revistas e editoras internacionais de referência.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+*   **A** **consolidação das nossas** [**áreas de trabalho**](https://candidatura.netlify.app/blog/post-four/), apresentadas no último plano estratégico, atentam às mais urgentes questões contemporâneas e que iremos continuar a apoiar para a nossa atualização permanente.
 
-## Productivity
+*   **A coesão da equipa** de investigadores.as e gestores.as de ciência e tecnologia que fazem o dia à dia do ICNOVA.
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+<!---->
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+*   **O** **uso sustentado e eficiente dos recursos**: a presente avaliação do painel FCT traz-nos menos verba do que no período anterior e deve ser usada de modo estratégico a partir de decisões coletivas e democráticas.
+
+*   **A** **diversificação das nossas fontes de financiamento** deve contar com o apoio de um gestor de ciência dedicado a esta tarefa e com todos.as os investigadores.as.
+
+*   **A partilha de responsabilidades e uma prestação de contas regular e transparente** são propósitos desta candidatura.
+
+### **POR UM CENTRO AINDA MAIS ORGÂNICO, COLABORATIVO E INTERVENTIVO**.
+
+Precisamos de:
+
+| **mais momentos de partilha**                                                              |
+| ------------------------------------------------------------------------------------------ |
+| **reuniões participadas e horizontais**                                                    |
+| **ambientes acolhedores e confortáveis**                                                   |
+| **reuniões mais regulares do Conselho Científico (CC), para além das 2 anuais ordinárias** |
+
+Em tempos de incerteza, podem contar com o nosso empenho e com a **dedicação do nosso tempo** às funções para as quais nos estamos a candidatar.
+
+Acreditamos que as artes, a comunicação, o jornalismo de investigação e os media podem tomar a dianteira em processos de governança participativa e ação coletiva, na nossa busca de transformar, pelo menos um pouco, o mundo que nos rodeia. Na investigação sobre Inteligência Artificial, contamos também com a Inteligência das Artes!
+
+
+
+<div style="text-align: right">**Contamos com a vossa confiança!**</div>
+
