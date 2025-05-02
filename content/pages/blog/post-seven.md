@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Atmosfera ⌨️
+title: Atmosfera
 colors: colors-b
 date: '2024-06-10'
 author: content/data/team/doris-soto.json
