@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - type: TextSection
-    title: The Section Title
+    title: ''
     text: >+
       # ICNOVA: A COMUNICAÇÃO NO CENTRO
 
