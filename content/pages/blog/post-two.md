@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: The Great Unbundling
+title: Internacionalização
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
@@ -11,18 +11,7 @@ backgroundImage:
   opacity: 75
 date: '2021-11-03'
 author: content/data/team/doris-soto.json
-excerpt: >-
-  More context that may or may not be helpful
-featuredImage:
-  type: ImageBlock
-  url: /images/featured-Image2.jpg
-  altText: Post thumbnail image
-media:
-  url: /images/post-4.png
-  altText: altText of the image
-  caption: Caption of the image
-  elementId: ''
-  type: ImageBlock
+excerpt: o maior desafio que temos pela frente
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
@@ -45,63 +34,26 @@ bottomSections:
         textAlign: left
     showFeaturedImage: true
     showReadMoreLink: true
-  - type: ContactSection
-    backgroundSize: full
-    title: 'Stay up-to-date with my words ✍️'
-    colors: colors-f
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      fields:
-        - name: firstName
-          label: First Name
-          hideLabel: true
-          placeholder: First Name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
-          hideLabel: true
-          placeholder: Last Name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve my words
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
-      styles:
-        self:
-          textAlign: center
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-24
-          - pb-24
-          - pr-4
-          - pl-4
-        flexDirection: row
-        textAlign: left
 ---
+É para produzirmos melhor ciência que faz sentido sermos mais internacionais e conseguirmos a captação de financiamentos europeus.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+A missão da nova coordenação será a de proporcionar à equipa ICNOVA as condições para darmos este salto que deve marcar os próximos anos. Eis algumas ideias:
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+*   **Produzindo mais e melhor ciência**, com critérios de exigência e de revisão qualificada, bem como atividades de investigação artística em redes internacionais e outras formas de produção de resultados.    
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+*   **Proporcionando um funcionamento coeso**, e em equipa, dos membros da gestão de ciência, garantindo o seu efetivo apoio permanente nas diferentes etapas da internacionalização.   
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+*   **Garantindo boa mentoria** de candidaturas na identificação de oportunidades de internacionalização, «pré-award» bem como na gestão dos projetos na fase de «pós-award», por parte da pessoa a contratar para a gestão de ciência, criando uma melhor articulação com a faculdade.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+*   **Continuando a mobilizar o apoio da DAI** e a participação dos investigadores.as nas formações sobre programas de internacionalização.
+
+*   **Apoiando a emergência de redes** com investigadores.as internacionais, criando redes ICNOVA por iniciativa dos nossos investigadores.as.     
+
+*   **Prosseguindo a política de apoio a deslocações** a conferências internacionais, filiação em associações científicas internacionais e publicação com colegas de universidades europeias e não-europeias, bem como a nossa organização de conferências internacionais envolvendo instituições internacionais.
+
+*   **Aproveitando melhor as oportunidades** da rede Eutopia, a universidade europeia em que a UNL participa. Temos ainda poucos bolseiros.as dos doutoramentos oferecidos em co-tutela, e poucos investigadores.as envolvidos ativamente nas Connected Communities (<https://eutopia-university.eu/>).
+
+*   **Internacionalizando**, mediante candidaturas europeias, os **doutoramentos ligados ao ICNOVA**. Por exemplo, o programa Marie Curie - Doctoral Networks (abre a 25 de maio) (<https://marie-sklodowska-curie-actions.ec.europa.eu/actions/doctoral-networks>).   
+
+*   **Incentivando investigações de doutoramento com temas de âmbito internacional**, abordando acervos que necessitem estudo ou perspetivas comparadas sobre media, artes e tecnologias, estabelecendo protocolos com fundações culturais ou empresariais, com grupos internacionais de media, com instituições culturais ou autarquias em países estrangeiros.
+
