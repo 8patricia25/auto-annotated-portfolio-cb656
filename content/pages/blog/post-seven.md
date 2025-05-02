@@ -4,7 +4,7 @@ title: Atmosfera ⌨️
 colors: colors-a
 date: '2024-06-10'
 author: content/data/team/doris-soto.json
-excerpt: 'investir '
+excerpt: investir e modernizar os espaços do ICNOVA
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image1.jpg
