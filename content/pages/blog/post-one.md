@@ -9,7 +9,6 @@ bottomSections:
   - type: FeaturedPostsSection
     actions: []
     posts:
-      - content/pages/blog/post-five.md
       - content/pages/blog/post-two.md
     colors: colors-f
     variant: variant-c
