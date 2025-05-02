@@ -4,7 +4,7 @@ title: Emprego científico
 colors: colors-a
 date: '2024-05-02'
 author: content/data/team/doris-soto.json
-excerpt: 'o que está previsto no '
+excerpt: o que está previsto no novo estratégico
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
