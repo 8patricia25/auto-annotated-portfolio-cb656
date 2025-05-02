@@ -94,7 +94,7 @@ sections:
         url: 'https://candidatura2527.netlify.app/blog/post-seven/'
       - type: Label
         label: Financiamentos
-        url: ''
+        url: 'https://candidatura2527.netlify.app/blog/post-eight/'
     colors: colors-f
     elementId: ''
     styles:
