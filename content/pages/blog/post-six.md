@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: "Governança \U0001F5C2️"
-colors: colors-a
+colors: colors-b
 date: '2025-03-23'
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
