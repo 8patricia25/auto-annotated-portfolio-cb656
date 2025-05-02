@@ -28,33 +28,45 @@ bottomSections:
     showFeaturedImage: true
     showReadMoreLink: true
 ---
+A investigação é feita por muitas pessoas. As pessoas estão mesmo no centro.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+Para nós, o principal desafio é o de motivar todas as pessoas e equipas em torno de objetivos comuns, para que cada um e cada uma possa atingir o seu máximo potencial e se sinta realizado.a pessoal e profissionalmente. 
 
-## Heading 2
+**Queremos ser um centro de referência nacional e internacional em termos de resultados científicos e impacto social, e um** **bom local para se trabalhar**.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+**Como é que isto se faz?**
 
-### Heading 3
+**#1. Partilhar informação gera confiança. Confiança gera maior participação e colaboração**
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque.
+Se partilharmos cada vez mais e melhor informação sobre a gestão do centro, o uso dos seus recursos, as regras a que estamos sujeitos pela FCSH e FCT, se envolvermos mais cada GI e o Conselho Científico nas tomadas de decisão, acreditamos que todos.as perceberão que **a sua voz conta**, e isso melhora a participação. 
 
-```javascript
-{
-  page.content && (
-    <Markdown
-      options={{ forceBlock: true, overrides: { pre: HighlightedPreBlock } }}
-      className="sb-markdown max-w-3xl mx-auto"
-      data-sb-field-path="content"
-    >
-      {page.content}
-    </Markdown>
-  );
-}
-```
+Os coordenadores.as de GI têm aqui um papel e responsabilidade muito importantes, devendo reunir com todos os membros do seu grupo o mais regularmente possível para os colocar a par de todas as decisões e representar, na coordenação, as perspetivas do grupo.
 
-In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+*   Proporemos ao Conselho Científico um conjunto de práticas de partilha de informação e de formas de decisão que aprofundem a boa prestação de contas, como por exemplo:
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+| **usar mais a intranet para partilhar documentos relevantes, como as memórias das reuniões da coordenação**                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **produzir, quadrimestralmente, um documento detalhado (mas não nominal) da execução financeira a apresentar a todos os elementos da coordenação, deixando-o acessível na intranet** |
+| **melhorar a frequência da informação sobre programas de financiamento e oportunidades de intercâmbios**                                                                             |
+| **proporcionar mais encontros informais ao vivo, que favoreçam uma maior partilha dos projetos de cada um.a, incluindo aqui os doutorandos.as e a equipa de gestores.as de ciência** |
+| **continuar a estratégia de comunicação e outras iniciativas da equipa de comunicação e gestão.**                                                                                    |
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+**#2.Consolidar a organização interna**
+
+Para conseguirmos um bom binómio entre **autonomia e colaboração**, é importante continuar o caminho de distribuição clara das funções entre os gestores.as de ciência com diferentes funções bem partilhadas, e de comunicação destas funções aos investigadores.as e estudantes, com meios técnicos adequados, instalações melhoradas, e menor burocratização.
+
+Ver resultados promove a MOTIVAÇÃO. Perceber porque se é ou não apoiado numa atividade, também.
+
+**#3.Premiar a pro-atividade e a criatividade**
+
+Cada membro tem as suas ideias e deseja implementar os seus projetos. Deve ter tanta autonomia como apoio do centro para encontrar as pessoas com quem trabalhar, os parceiros internos e externos, as soluções de financiamento ou, se for o caso, recorrer aos apoios regulamentares. Muitas das atividades requerem meios técnicos, cujo conhecimento e acesso é necessário garantir.
+
+*   A revisão do Regulamento de Apoios é uma das tarefas que temos pela frente, coletivamente. Terá que ser discutido em CC, tendo por base uma metodologia participada.
+
+*   Será desejável adquirir um programa informático de requisição de equipamentos e meios humanos para optimizar a gestão dos equipamentos.
+
+*   Criar condições financeiras e logísticas para apoiar as estruturas existentes e as que derivam do novo Plano Estratégico, de modo a torná-los espaços vivos de verdadeira experimentação e criatividade.
+
+*   Acolher e apoiar as iniciativas dos estudantes.
+
+
