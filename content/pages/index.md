@@ -78,7 +78,7 @@ sections:
         label: Internacionalização
         url: 'https://candidatura2527.netlify.app/blog/post-two/'
       - type: Label
-        label: Microsoft Office
+        label: Linhas de ação
         url: ''
       - type: Label
         label: Next.js
