@@ -12,13 +12,28 @@ backgroundImage:
 sections:
   - type: TextSection
     title: The Section Title
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >+
+      # ICNOVA: A COMUNICAÇÃO NO CENTRO
+
+
+      # COMO ATIVAS AS nossas forças multifacetadas para ir ao encontro dos
+      desafios à nossa frente?
+
+
+      # COLOCANDO A COMUNICAÇÃO NO CENTRO. 
+
+
+      # Somos  uma comunidade interdisciplinar com a visão de que a comunicação
+      e a cultura moldam muitos dos grandes desafios do nosso tempo.
+
+
+
+
+
+
+      <div style="text-align: right">Candidatura de Teresa Mendes Flores e Carla
+      Fernandes à coordenação executiva do ICNOVA 2025-2027.</div>
+
     colors: colors-f
     variant: variant-a
     elementId: ''
