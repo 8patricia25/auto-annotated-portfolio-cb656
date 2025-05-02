@@ -84,7 +84,7 @@ sections:
         label: Pessoas
         url: 'https://candidatura2527.netlify.app/blog/post-four/'
       - type: Label
-        label: Netlify
+        label: Emprego científico
         url: ''
       - type: Label
         label: Pancakes
