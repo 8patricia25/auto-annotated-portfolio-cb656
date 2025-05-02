@@ -11,7 +11,7 @@ bottomSections:
     items:
       - type: Label
         label: Apresentação
-        url: 'https://candidatura2527.netlify.app/'
+        url: 'https://candidatura2527.netlify.app/blog/post-one/'
       - type: Label
         label: Internacionalização
         url: 'https://candidatura2527.netlify.app/blog/post-two/'

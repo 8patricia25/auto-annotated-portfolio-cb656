@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: linhas de ação
+title: "linhas de ação \U0001F4D1"
 colors: colors-b
 date: '2024-01-01'
 author: content/data/team/doris-soto.json
@@ -12,7 +12,7 @@ bottomSections:
     items:
       - type: Label
         label: Apresentação
-        url: 'https://candidatura2527.netlify.app/'
+        url: 'https://candidatura2527.netlify.app/blog/post-one/'
       - type: Label
         label: Internacionalização
         url: 'https://candidatura2527.netlify.app/blog/post-two/'

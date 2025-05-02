@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: "Governança \U0001F5C2️"
+title: "Governança \U0001F30E"
 colors: colors-b
 date: '2025-03-23'
 author: content/data/team/doris-soto.json
@@ -12,7 +12,7 @@ bottomSections:
     items:
       - type: Label
         label: Apresentação
-        url: 'https://candidatura2527.netlify.app/'
+        url: 'https://candidatura2527.netlify.app/blog/post-one/'
       - type: Label
         label: Internacionalização
         url: 'https://candidatura2527.netlify.app/blog/post-two/'
