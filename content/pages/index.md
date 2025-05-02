@@ -90,7 +90,7 @@ sections:
         label: Governança
         url: 'https://candidatura2527.netlify.app/blog/post-six/'
       - type: Label
-        label: C++
+        label: Atmosfera
         url: ''
       - type: Label
         label: Swift
