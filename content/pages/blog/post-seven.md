@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Atmosfera ⌨️
-colors: colors-a
+colors: colors-b
 date: '2024-06-10'
 author: content/data/team/doris-soto.json
 excerpt: investir e modernizar os espaços do ICNOVA
