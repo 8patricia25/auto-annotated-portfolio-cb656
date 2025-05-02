@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: linhas de ação
+title: "linhas de ação \U0001F4D1"
 colors: colors-b
 date: '2024-01-01'
 author: content/data/team/doris-soto.json
