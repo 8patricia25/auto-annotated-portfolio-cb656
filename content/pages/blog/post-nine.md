@@ -30,16 +30,8 @@ bottomSections:
 metaTags: []
 colors: colors-b
 ---
-Cada investigador é um ponta de lança na angariação de financiamentos para a sua investigação e das suas equipas. O papel do ICNOVA é proporcionar boas condições técnicas e humanas para a fase de procura de financiamentos e para a fase de execução. Isso deve ser realizado pela equipa prevista e estar em melhor articulação com a DAI e os serviços da FCSH.
+Queremos oferecer a maior resistência às ideias hegemónicas que se multiplicam pelo planeta fora, investindo em práticas alternativas e empáticas. As artes, a comunicação e os novos media devem permitir-nos um forte engajamento na mediação e atenção aos desequilíbrios sociais e ecológicos que precisamos de enfrentar.
 
-Temos coletivamente a ambição de modificar o perfil financeiro do ICNOVA, aumentando financiamentos internacionais e fora da FCT. Cada investigador, em particular os contratados, deve contribuir ativamente para este objetivo. Os novos.as investigadores.as a contratar devem incluir esta procura no seu PIT (Plano Individual de Trabalho): parte do seu tempo deve ser para assegurar financiamentos para o projeto com que se apresentaram a concurso.
+Não queremos ambientes tóxicos. Recusamo-nos a normalizar a ideia de que as universidades são lugares anti-democráticos, opressivos e patriarcais, além de conservadores, como às vezes nos parecem.
 
-Gostaríamos de implementar metodologias de contratação e de candidaturas a bolsas, que correspondam a projetos já elaborados pelos investigadores séniores das diferentes áreas de investigação do ICNOVA, aos quais os investigadores e investigadoras se candidatam, em especial nos níveis mais júniores, conforme boas práticas internacionais.
-
-Reforçar a captação de prestações de serviços pelo ICNOVA, através de procura ativa coadjuvada por um membro do staff. Garantir, junto da faculdade, que da percentagem de Gastos Gerais («overheads») retida, 5% são alocados ao ICNOVA. 
-
-Garantir que toda a cadeia de execução financeira e humana das prestações de serviços seja integrada no circuito de gestão do ICNOVA, como qualquer outro projeto.
-
-Executar as verbas previstas para equipamentos e sua manutenção.
-
-Alocar verba para algumas obras não contempladas nas atuais obras do CAN.
+A comissão de ética, cujo regulamento tem que ser atualizado em CC, não resolve estas questões de raíz, mas terá um papel cívico a cumprir, condenando todo o tipo de assédios e extrativismo académico, em colaboração com os organismos similares já implementados pela faculdade.
