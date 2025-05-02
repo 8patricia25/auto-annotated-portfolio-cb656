@@ -59,7 +59,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        subtitle: 'Education:'
+        subtitle: CARLA FERNANDES
         text: >+
           Doutorada em Linguística, na área da Comunicação Multimodal, pela
           Universidade Nova de Lisboa e a Vrije Universiteit de Amsterdão.
