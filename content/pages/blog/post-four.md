@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: 'Pessoas '
+title: Pessoas
 colors: colors-b
 date: '2024-02-01'
 author: content/data/team/doris-soto.json
