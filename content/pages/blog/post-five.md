@@ -4,7 +4,7 @@ title: Emprego científico
 colors: colors-a
 date: '2024-05-02'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: 'o que está previsto no '
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
