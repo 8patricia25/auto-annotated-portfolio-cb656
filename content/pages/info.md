@@ -109,4 +109,7 @@ sections:
         label: C++
       - type: Label
         label: Swift
+    styles:
+      self:
+        textAlign: center
 ---
