@@ -75,7 +75,7 @@ sections:
         label: Apresentação
         url: 'https://candidatura2527.netlify.app/'
       - type: Label
-        label: React
+        label: Internacionalização
         url: ''
       - type: Label
         label: Microsoft Office
