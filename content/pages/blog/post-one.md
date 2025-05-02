@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Apresentação
-colors: colors-a
+colors: colors-b
 date: '2025-03-20'
 author: content/data/team/doris-soto.json
 excerpt: o nosso compromisso
