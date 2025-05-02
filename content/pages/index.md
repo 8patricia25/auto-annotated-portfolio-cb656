@@ -95,6 +95,9 @@ sections:
       - type: Label
         label: Financiamentos
         url: 'https://candidatura2527.netlify.app/blog/post-eight/'
+      - type: Label
+        label: Um sentido ético
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
