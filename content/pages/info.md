@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: About
+title: Quem somos
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
