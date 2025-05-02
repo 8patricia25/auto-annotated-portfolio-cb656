@@ -97,7 +97,7 @@ sections:
         url: 'https://candidatura2527.netlify.app/blog/post-eight/'
       - type: Label
         label: Um sentido ético
-        url: ''
+        url: 'https://candidatura2527.netlify.app/blog/post-nine/'
     colors: colors-f
     elementId: ''
     styles:
