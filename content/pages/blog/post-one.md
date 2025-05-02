@@ -27,6 +27,28 @@ bottomSections:
         textAlign: left
     showFeaturedImage: true
     showReadMoreLink: true
+  - type: FeaturedPostsSection
+    actions: []
+    posts:
+      - content/pages/blog/post-five.md
+    colors: colors-f
+    variant: variant-c
+    elementId: ''
+    showDate: true
+    showAuthor: false
+    showExcerpt: true
+    showFeaturedImage: false
+    showReadMoreLink: true
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        textAlign: left
 ---
 Apresentamo-nos como candidatas à Coordenação Executiva do ICNOVA para o mandato de 2025-2027 com a enorme vontade de continuar a fomentar a participação coletiva na vida do ICNOVA e de fortalecer as práticas democráticas na tomada de decisão e na partilha da informação. 
 
