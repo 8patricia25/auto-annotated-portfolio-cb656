@@ -41,7 +41,7 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
+                "label": "Quem somos",
                 "url": "/info",
                 "altText": ""
             },
