@@ -68,7 +68,7 @@ São exemplos, três casos para breve: a revisão dos Estatutos, do Regulamento 
 
 ### OUTRAS PROPOSTAS
 
-*   Os Estatutos do ICNOVA aprovados pelo Conselho Científico de 21 de Novembro de 2021, prevêem uma revisão após 4 anos de funcionamento, devendo, por isso, ser agora revistos em 2025, uma vez que já perfizeram os 4 anos de existência.
+*   Os Estatutos do ICNOVA aprovados pelo Conselho Científico de 19 de novembro de 2021, prevêem uma revisão após 4 anos de funcionamento, devendo, por isso, ser agora revistos em 2025, uma vez que já perfizeram os 4 anos de existência.
 
 *   Os Estatutos devem ser revistos porque são muito omissos e vagos relativamente a várias matérias. Assim, o Conselho Científico deverá deliberar, nomeadamente sobre:
 
@@ -77,7 +77,7 @@ São exemplos, três casos para breve: a revisão dos Estatutos, do Regulamento 
 | **As funções dos órgãos tornando-as mais precisas e menos genéricas**                                                                                                                   |
 | **Os métodos de decisão da coordenação estão omissos e deverão ser oficializados, com decisões por maioria**                                                                            |
 | **Revisão da proposta sobre a Comissão de Ética**                                                                                                                                       |
-| **A inclusão nos Estatutos de normativos relativos à gestão e coordenação científica das várias publicações do ICNOVA com remissão para os respectivos regulamentos próprios**          |
+| **A inclusão nos Estatutos de normativos relativos à gestão e coordenação científica das várias publicações do ICNOVA com remissão para os respetivos regulamentos próprios**           |
 | **A Comissão de Ética já formalizada mas omissa nos Estatutos**                                                                                                                         |
 | **Discutir o número de membros do Conselho Científico que podem exigir marcação de reunião extraordinária para debater algum tema que considerem urgente (atualmente é ⅓ dos membros)** |
 | **Na última revisão foi introduzida a limitação de mandatos, de dois mandatos consecutivos, tanto para os coordenadores principais quanto de grupo, com que concordamos**               |
@@ -101,7 +101,7 @@ São exemplos, três casos para breve: a revisão dos Estatutos, do Regulamento 
 
 *Deve ser apenas uma recomendação.*
 
-**
+\*\*
 
 ## **PRESTAÇÃO DE CONTAS**
 
