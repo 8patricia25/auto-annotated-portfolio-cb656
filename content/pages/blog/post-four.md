@@ -58,6 +58,8 @@ Para nós, o principal desafio é o de motivar todas as pessoas e equipas em tor
 
 **Como é que isto se faz?**
 
+****
+
 **#1. Partilhar informação gera confiança. Confiança gera maior participação e colaboração**
 
 Se partilharmos cada vez mais e melhor informação sobre a gestão do centro, o uso dos seus recursos, as regras a que estamos sujeitos pela FCSH e FCT, se envolvermos mais cada GI e o Conselho Científico nas tomadas de decisão, acreditamos que todos.as perceberão que **a sua voz conta**, e isso melhora a participação. 
@@ -73,11 +75,17 @@ Os coordenadores.as de GI têm aqui um papel e responsabilidade muito importante
 | **proporcionar mais encontros informais ao vivo, que favoreçam uma maior partilha dos projetos de cada um.a, incluindo aqui os doutorandos.as e a equipa de gestores.as de ciência** |
 | **continuar a estratégia de comunicação e outras iniciativas da equipa de comunicação e gestão.**                                                                                    |
 
+****
+
 **#2.Consolidar a organização interna**
 
 Para conseguirmos um bom binómio entre **autonomia e colaboração**, é importante continuar o caminho de distribuição clara das funções entre os gestores.as de ciência com diferentes funções bem partilhadas, e de comunicação destas funções aos investigadores.as e estudantes, com meios técnicos adequados, instalações melhoradas, e menor burocratização.
 
-Ver resultados promove a MOTIVAÇÃO. Perceber porque se é ou não apoiado numa atividade, também.
+Ver resultados promove a MOTIVAÇÃO. 
+
+Perceber porque se é ou não apoiado numa atividade, também.
+
+****
 
 **#3.Premiar a pro-atividade e a criatividade**
 
@@ -90,5 +98,4 @@ Cada membro tem as suas ideias e deseja implementar os seus projetos. Deve ter t
 *   Criar condições financeiras e logísticas para apoiar as estruturas existentes e as que derivam do novo Plano Estratégico, de modo a torná-los espaços vivos de verdadeira experimentação e criatividade.
 
 *   Acolher e apoiar as iniciativas dos estudantes.
-
 
