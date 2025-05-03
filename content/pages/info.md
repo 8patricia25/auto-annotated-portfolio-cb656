@@ -12,7 +12,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/teresaflorescarlafernandes.jpg
       altText: Hero image
     styles:
       self:
