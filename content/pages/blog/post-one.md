@@ -52,13 +52,13 @@ bottomSections:
 ---
 Apresentamo-nos como candidatas à Coordenação Executiva do ICNOVA para o mandato de 2025-2027 com a enorme vontade de continuar a fomentar a participação coletiva na vida do ICNOVA e de fortalecer as práticas democráticas na tomada de decisão e na partilha da informação. 
 
-Temos pela frente um novo projeto estratégico que foi avaliado como Excelente. Conhecemo-lo bem, pois participámos ativamente na sua elaboração e acreditamos estar qualificadas para o executar. Queremos que a sua implementação prossiga a metodologia participativa que o gerou.
+Temos pela frente um novo projeto estratégico que foi avaliado como Excelente. Conhecemo-lo bem, pois participámos ativamente na sua elaboração e acreditamos estar qualificadas para gerir a sua execução coletiva. Queremos que a sua implementação prossiga a metodologia participativa que o gerou.
 
 Com a manutenção do nosso Excelente, continuamos a acreditar que podemos ir ainda mais além — reforçando o espírito de equipa interno e promovendo um conjunto de ações externas que tornem a nossa produção científica mais atualizada e com um alcance e impacto internacionais, na academia e na sociedade.
 
 Por isso, delineamos aqui as traves mestras do programa de trabalho que nos convoca a todos e a todas.
 
-*   **A** **internacionalização como o motor das nossas ações**: devemos organizar-nos para alcançarmos, com sucesso, mais projetos financiados em programas europeus, estar em mais redes internacionais, com destaque para o Sul Global, e ter mais publicações nas revistas e editoras internacionais de referência.
+*   **A** **internacionalização como o motor das nossas ações**: devemos organizar-nos para alcançarmos, com sucesso, mais projetos financiados em programas europeus, estar em mais redes internacionais e ter mais publicações nas revistas e editoras internacionais de referência.
 
 *   **A** **consolidação das nossas** [**áreas de trabalho**](https://candidatura.netlify.app/blog/post-four/), apresentadas no último plano estratégico, atentam às mais urgentes questões contemporâneas e que iremos continuar a apoiar para a nossa atualização permanente.
 
@@ -84,9 +84,7 @@ Precisamos de:
 
 Em tempos de incerteza, podem contar com o nosso empenho e com a **dedicação do nosso tempo** às funções para as quais nos estamos a candidatar.
 
-Acreditamos que as artes, a comunicação, o jornalismo de investigação e os media podem tomar a dianteira em processos de governança participativa e ação coletiva, na nossa busca de transformar, pelo menos um pouco, o mundo que nos rodeia. Na investigação sobre Inteligência Artificial, contamos também com a Inteligência das Artes!
-
-
+Acreditamos que a comunicação, os media, o jornalismo de investigação, a cultura e as artes podem tomar a dianteira em processos de governança participativa e ação coletiva, na nossa busca de transformar, pelo menos um pouco, o mundo que nos rodeia. Na investigação sobre Inteligência Artificial, contamos também com a Inteligência das Artes!
 
 <div style="text-align: right">**Contamos com a vossa confiança!**</div>
 
