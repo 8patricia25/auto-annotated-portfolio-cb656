@@ -90,26 +90,46 @@ sections:
           - pr-4
         textAlign: left
   - type: LabelsSection
-    colors: colors-f
-    subtitle: Menu
+    title: MENU
+    subtitle: ''
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Apresentação
+        url: 'https://candidatura2527.netlify.app/blog/post-one/'
       - type: Label
-        label: Microsoft Office
+        label: Internacionalização
+        url: 'https://candidatura2527.netlify.app/blog/post-two/'
       - type: Label
-        label: Next.js
+        label: Linhas de ação
+        url: 'https://candidatura2527.netlify.app/blog/post-three/'
       - type: Label
-        label: React
+        label: Pessoas
+        url: 'https://candidatura2527.netlify.app/blog/post-four/'
       - type: Label
-        label: Netlify
+        label: Emprego científico
+        url: 'https://candidatura2527.netlify.app/blog/post-five/'
       - type: Label
-        label: Pancakes
+        label: Governança
+        url: 'https://candidatura2527.netlify.app/blog/post-six/'
       - type: Label
-        label: C++
+        label: Atmosfera
+        url: 'https://candidatura2527.netlify.app/blog/post-seven/'
       - type: Label
-        label: Swift
+        label: Financiamentos
+        url: 'https://candidatura2527.netlify.app/blog/post-eight/'
+      - type: Label
+        label: Um sentido ético
+        url: 'https://candidatura2527.netlify.app/blog/post-nine/'
+    colors: colors-f
+    elementId: ''
     styles:
       self:
+        height: auto
+        width: wide
+        padding:
+          - pt-14
+          - pb-9
+          - pl-4
+          - pr-4
         textAlign: center
 ---
