@@ -82,7 +82,7 @@ Abordados em dois **eixos de trabalho**:
 
 > **O ICNOVA assenta a sua agenda em cinco grupos de investigação que atuam de modos complementares em temáticas transversais. Trabalhar com e para diferentes públicos continuará a ser a nossa orientação chave.**
 
-Candidatura ICNOVA 2025-29
+<div style="text-align: right">*In Candidatura ICNOVA 2025-29*</div>
 
 A pro-atividade na construção de trabalho transversal aos grupos deve prosseguir e mereceu o reconhecimento dos avaliadores.
 
@@ -91,4 +91,3 @@ Cada grupo avançou com ações a desenvolver, algumas já apresentadas ou em vi
 Registamos aqui o essencial do que foi proposto:
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcemJm1W6bO8uvXysS93iiRZxlP3oRp-rnJCcMwi9IwIZSyckL-AcMq7T7jew4SdUAOcxBBGcyhlITKWKUSZK0Rm015cPI712qecJDOSjdfqDuNx7pEv4018OgAfawB-cgI8fF_OZWMiirTET1Fi88?key=Xd9zGtb0yUqMxmIO2-GfhuIJ)
-
