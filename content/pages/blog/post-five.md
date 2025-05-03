@@ -90,7 +90,7 @@ Esta questão depende de vários fatores que não controlamos. **O que podemos 
 
 *   10 bolsas de iniciação à investigação
 
-*   12 bolsas de PhD
+
 
 #### **ORÇAMENTO BASE**
 
