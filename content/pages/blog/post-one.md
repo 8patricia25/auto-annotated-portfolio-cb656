@@ -60,7 +60,7 @@ Por isso, delineamos aqui as traves mestras do programa de trabalho que nos conv
 
 *   **A** **internacionalização como o motor das nossas ações**: devemos organizar-nos para alcançarmos, com sucesso, mais projetos financiados em programas europeus, estar em mais redes internacionais e ter mais publicações nas revistas e editoras internacionais de referência.
 
-*   **A** **consolidação das nossas** [**áreas de trabalho**](https://candidatura.netlify.app/blog/post-four/), apresentadas no último plano estratégico, atentam às mais urgentes questões contemporâneas e que iremos continuar a apoiar para a nossa atualização permanente.
+*   **A** **consolidação das nossas** [**áreas de trabalho**](https://candidatura2527.netlify.app/blog/post-three/), apresentadas no último plano estratégico, atentam às mais urgentes questões contemporâneas e que iremos continuar a apoiar para a nossa atualização permanente.
 
 *   **A coesão da equipa** de investigadores.as e gestores.as de ciência e tecnologia que fazem o dia à dia do ICNOVA.
 
