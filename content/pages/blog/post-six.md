@@ -74,7 +74,7 @@ São exemplos, três casos para breve: a revisão dos Estatutos, do Regulamento 
 
 | **Os processos eleitorais, tornando mais claros os procedimentos**                                                                                                                      |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **As funções dos órgãos tornando-as mais precisas e menos genéricas**                                                                                                                   |
+| **As funções dos órgãos, tornando-os mais precisas e menos genéricas**                                                                                                                  |
 | **Os métodos de decisão da coordenação estão omissos e deverão ser oficializados, com decisões por maioria**                                                                            |
 | **Revisão da proposta sobre a Comissão de Ética**                                                                                                                                       |
 | **A inclusão nos Estatutos de normativos relativos à gestão e coordenação científica das várias publicações do ICNOVA com remissão para os respetivos regulamentos próprios**           |
