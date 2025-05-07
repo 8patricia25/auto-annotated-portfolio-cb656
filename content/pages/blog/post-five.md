@@ -90,8 +90,6 @@ Esta questão depende de vários fatores que não controlamos. **O que podemos 
 
 *   10 bolsas de iniciação à investigação
 
-
-
 #### **ORÇAMENTO BASE**
 
 **Gestores de Ciência e Tecnologia do ICNOVA**
@@ -112,7 +110,7 @@ O projeto estratégico mantém a atual estrutura do Staff. 
 
 ## **POSIÇÃO PÚBLICA SOBRE A PRECARIEDADE NA CIÊNCIA**
 
-Fomos sempre investigadoras contratadas e, como tal, conhecemos bem os constrangimentos e dificuldades da precariedade. A nossa posição pública será sempre a defesa de que um centro de investigação com avaliação de Excelente deve ter no mínimo um ratio equivalente entre investigadores a 100% e docentes. Defendemos que deve existir flexibilidade entre investigação e docência, para ambas as carreiras, em dados momentos de cada percurso. **A carreira pública de investigação científica não pode é continuar a existir apenas no papel!**
+Fomos sempre investigadoras contratadas a termo incerto e, como tal, conhecemos bem os constrangimentos e dificuldades da precariedade. A nossa posição pública será sempre a defesa de que um centro de investigação com avaliação de Excelente deve ter no mínimo um ratio equivalente entre investigadores a 100% e docentes. Defendemos que deve existir flexibilidade entre investigação e docência, para ambas as carreiras, em dados momentos de cada percurso. **A carreira pública de investigação científica não pode é continuar a existir apenas no papel!**
 
 A precaridade dos investigadores.as resolve-se com a abertura de concursos públicos para essa carreira, com suficiente financiamento do orçamento do Estado, como deve acontecer para a carreira docente. Acreditamos que a procura de financiamentos para projetos não fica prejudicada com a estabilidade dos docentes, investigadores e equipas. Pelo contrário!
 
