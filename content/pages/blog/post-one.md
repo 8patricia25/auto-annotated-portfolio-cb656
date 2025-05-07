@@ -84,7 +84,7 @@ Precisamos de:
 
 Em tempos de incerteza, podem contar com o nosso empenho e com a **dedicação do nosso tempo** às funções para as quais nos estamos a candidatar.
 
-Acreditamos que a comunicação, os media, o jornalismo de investigação, a cultura e as artes podem tomar a dianteira em processos de governança participativa e ação coletiva, na nossa busca de transformar, pelo menos um pouco, o mundo que nos rodeia. Na investigação sobre Inteligência Artificial, contamos também com a Inteligência das Artes!
+Acreditamos que a comunicação, os media, o jornalismo de investigação, a cultura e as artes podem tomar a dianteira em processos de governança participativa e ação coletiva, na nossa busca de transformar, pelo menos um pouco, o mundo que nos rodeia. Na investigação sobre Inteligência Artificial, contamos também com a Inteligência das Artes.
 
 <div style="text-align: right">**Contamos com a vossa confiança!**</div>
 
