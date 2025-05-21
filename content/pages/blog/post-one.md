@@ -62,7 +62,7 @@ Por isso, delineamos aqui as traves mestras do programa de trabalho que nos conv
 
 *   **A** **consolidação das nossas** [áreas de trabalho](https://candidatura2527.netlify.app/blog/post-three/), apresentadas no último plano estratégico, atentam às mais urgentes questões contemporâneas e que iremos continuar a apoiar para a nossa atualização permanente.
 
-*   **A coesão da equipa** de investigadores.as e gestores.as de ciência e tecnologia que fazem o dia à dia do ICNOVA.
+*   **A coesão da equipa** de investigadores.as e gestores.as de ciência e tecnologia que fazem o dia a dia do ICNOVA.
 
 <!---->
 
